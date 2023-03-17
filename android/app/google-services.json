@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569451432190",
+    "project_id": "smarthome-afeaa",
+    "storage_bucket": "smarthome-afeaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569451432190:android:c458e4b3295cfc38b1bdaf",
+        "android_client_info": {
+          "package_name": "flutter.smarthomeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569451432190-fsgul6nbs27spr9se50lnbfvt7v0q675.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfoX9-IuR5lhH70u7EYdeKer5QDR8-Fmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569451432190-fsgul6nbs27spr9se50lnbfvt7v0q675.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
