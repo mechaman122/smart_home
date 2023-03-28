@@ -3,10 +3,10 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:smart_home/homePage.dart';
+import 'package:smart_home/public/home_page.dart';
 import 'package:smart_home/models/user.dart';
-import 'package:smart_home/reponsive/login.dart';
-import 'package:smart_home/reponsive/register.dart';
+import 'package:smart_home/public/login.dart';
+import 'package:smart_home/public/register.dart';
 import 'package:smart_home/reponsive/wrapper.dart';
 import 'package:smart_home/services/auth.dart';
 
